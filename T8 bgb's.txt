@@ -26,7 +26,7 @@ You May Need To Call The Function Linking To It Too
 
 
 Here Is An Example ( Although Giving Yourself Other bgbs seems to cause game crash's,
-maybe im missing a function and or need to remove the players gobblegum currently assigned in there loadout.
+maybe im missing a function and or need to remove the players gobblegum currently assigned in there loadout even though perkaholic doesnt effect anything when given....
 ______________________________________________________________________
 self addOpt("Give All Perks", &perkaholic, "zm_bgb_perkaholic");
 ______________________________________________________________________
