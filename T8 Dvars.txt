@@ -1,0 +1,47 @@
+setdvar(#"zombie_kills", 8);
+setdvar(#"scr_takeperk", "");
+setdvar(#"wallrun_enabled", 0);
+setdvar(#"sprintleap_enabled", 0);
+setdvar(#"doublejump_enabled", 0);
+setdvar(#"wallrun_enabled", 0);
+setdvar(#"sprintleap_enabled", 0);
+setdvar(#"traverse_mode", 2);
+setdvar(#"weaponrest_enabled", 0);
+setdvar(#"ui_allowdisplaycontinue", 1);
+setdvar(#"magic_chest_movable", 1);
+setdvar(#"revive_trigger_radius", 75);
+setdvar(#"scr_deleteexplosivesonspawn", 0);
+setdvar(#"hash_442d42efc73d739a", 50);  //??
+setdvar(#"cg_drawgun", 0);
+setdvar(#"cg_draw2d", 0);
+setdvar(#"cg_drawfps", 0);
+setdvar(#"fx_enable", 0);
+setdvar(#"r_fog", 0);
+setdvar(#"r_highloddist", 0);
+setdvar(#"r_znear", znear);
+setdvar(#"r_lodscalerigid", 0.1);
+setdvar(#"cg_drawversion", 0);
+setdvar(#"sm_enable", 1);
+setdvar(#"player_view_pitch_down", 90);
+setdvar(#"player_view_pitch_up", 0);
+setdvar(#"cg_fov", angle);
+setdvar(#"cg_drawminimap", 1);
+setdvar(#"r_umbranumthreads", 1);
+setdvar(#"r_umbradistancescale", 0.1);
+setdvar(#"r_uselensfov", 0);
+setdvar(#"debug_show_viewpos", 0);
+self setclientthirdperson(1);
+self setclientthirdperson(0);
+setdvar(#"cg_thirdpersonangle", 185);
+setdvar(#"cg_thirdpersonrange", 138);
+setdvar(#"cg_fov", 20);
+setdvar(#"cg_fov", getdvarstring(#"cg_fov_default"));
+setdvar(#"companion", companionname);
+
+
+// Misc Bot Dvars ? //
+setdvar(#"bot_allowmovement", 0);
+setdvar(#"bot_pressattackbtn", 0);
+setdvar(#"bot_pressmeleebtn", 0);
+setdvar(#"scr_botsallowkillstreaks", 0);
+setdvar(#"bot_allowgrenades", 0);

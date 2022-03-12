@@ -1,0 +1,4 @@
+player.pers[#"upgraded_ammo_purchased"];
+player.pers[#"power_turnedon"];
+player.pers[#"planted_buildables_pickedup"];
+player.pers[#"shields_purchased"];

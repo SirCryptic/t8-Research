@@ -1,0 +1,40 @@
+always done swiftly 	| zm_bgb_always_done_swiftly
+anywhere but here   	| zm_bgb_anywhere_but_here
+arsenal accelerator 	| zm_bgb_arsenal_accelerator
+danger closest  	   	| zm_bgb_danger_closest
+in plain sight      	| zm_bgb_in_plain_sight
+newtonian negation  	| zm_bgb_newtonian_negation
+now you see me      	| zm_bgb_now_you_see_me
+stock option        	| zm_bgb_stock_option
+board games         	| zm_bgb_board_games
+burned out          	| zm_bgb_burned_out
+crawl space         	| zm_bgb_crawl_space
+pop shocks          	| zm_bgb_pop_shocks
+temporal gift       	| zm_bgb_temporal_gift
+alchemical antithesis   | zm_bgb_alchemical_antithesis
+
+
+
+
+
+
+
+
+/* Notes
+
+You May Need To Call The Function Linking To It Too
+
+
+Here Is An Example ( Although Giving Yourself Other bgbs seems to cause game crash's,
+maybe im missing a function and or need to remove the players gobblegum currently assigned in there loadout.
+______________________________________________________________________
+self addOpt("Give All Perks", &perkaholic, "zm_bgb_perkaholic");
+______________________________________________________________________
+perkaholic(str_bgb)
+{
+    self thread bgb::run_activation_func(str_bgb);
+    self IprintLnBold("All Perks ^2Given");
+}
+______________________________________________________________________
+
+*/

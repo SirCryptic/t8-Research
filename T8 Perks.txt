@@ -1,0 +1,25 @@
+specialty_ammodrainsfromstockfirst
+specialty_whoswho
+specialty_doubletap2
+specialty_vultureaid
+specialty_additionalprimaryweapon
+"specialty_mod_extraammo -- bandolier
+specialty_armorvest
+specialty_shield  -- tortoise
+"specialty_deadshot":
+specialty_electriccherry":
+"specialty_fastreload":
+"specialty_quickrevive":
+"specialty_staminup":
+"specialty_widowswine":
+specialty_phdflopper
+
+
+
+//Unsure If These Actually Work When Called//
+zombie_perk_tortoise
+zombie_perk_timeslip
+zombie_perk_bottle_additionalprimaryweapon", "zombie_perk_totem_mule_kick");
+"zombie_perk_bottle_death_perception
+zombie_perk_totem_quick_revive  specialty_quickrevive
+

@@ -1,0 +1,1 @@
+spawnactor("spawner_mp_blight_father", v_spawn_pos, (0, 0, 0), "blightfather");

@@ -1,0 +1,123 @@
+// Not All The Weapons Are Listed Here But Its A Start / Something I guess (scns over and out)
+
+#"spoon", #"spork", #"spknifeork, #blundergat, #acidgat
+
+
+-- Specials --
+Hellion Salvo	| launcher_standard_t8
+Minigun		| minigun
+Ballistic Knife	| special_ballisticknife_t8_dw
+Ray Gun MK2		| ray_gun_mk2
+Crossbow		| special_crossbow_t8
+            
+-- Sniper Rifles --
+Outlaw| sniper_fastrechamber_t8
+Paladin HB50	| sniper_powerbolt_t8
+SDM			| sniper_powersemi_t8
+Koshka		| sniper_quickscope_t8
+
+-- Tactical Rifles --
+Auger DMR		| tr_powersemi_t8
+Swordfish		| tr_longburst_t8
+ABR 223		| tr_midburst_t8
+
+-- Lightmachine Guns --
+VKM 750		| lmg_heavy_t8
+Hades			| lmg_spray_t8
+Titan			| lmg_standard_t8
+
+-- Assault Rifles --
+ICR-7			| ar_accurate_t8
+Maddox RFB		| ar_fastfire_t8
+Rampart 17		| ar_damage_t8
+Vapr-XKG		| ar_stealth_t8
+KN-57			| ar_modular_t8
+Hitchcock M9	| ar_mg1909_t8
+Galil			| ar_galil_t8
+
+-- Submachine Guns --
+MX9			| smg_standard_t8
+Saug 9mm		| smg_handling_t8
+Spitfire		| smg_fastfire_t8
+Cordite		| smg_capacity_t8
+GKS			| smg_accurate_t8
+Escargot		| smg_drum_pistol_t8
+Switchblade x9	| smg_folding_t8
+
+-- Pistols --
+RK 7 Garrison	| pistol_burst_t8
+Mozu			| pistol_revolver_t8
+Strife		| pistol_standard_t8
+Welling		| pistol_topbreak_t8
+
+-- Shotguns --
+Mog 12		| shotgun_pump_t8
+SG12			| shotgun_semiauto_t8
+Trenchgun		| shotgun_trenchgun_t8
+            
+-- Equipment --
+Acid Bomb		| eq_acid_bomb
+Molotov		| eq_molotov
+Sticky Grenade	| sticky_grenade
+Claymore		| claymore
+Bouncingbetty	| bouncingbetty
+Mini Turret		| mini_turret
+
+-- Maps Specific --
+Monkey Bombs (all non chaos maps only)| cymbal_monkey
+tomahawk (blood of the dead only)	  | tomahawk_t8_upgraded
+homunculus (all chaos maps only)	  | homunculus
+Wunderwaffe (Tag der Toten only)      | ww_tesla_sniper_t8
+thundergun (Tag der Toten only)       | thundergun
+Galvaknuckles (Honestly unsure)       | galvaknuckles_t8
+
+-- Specials --
+Zitros Orbital Arbalest	| launcher_standard_t8_upgraded
+Thekrauss Refibrillator++| special_ballisticknife_t8_dw_upgraded
+Porters Mark II Ray Gun	| ray_gun_mk2_upgraded
+Minos's Zeal		| special_crossbow_t8_upgraded
+            
+-- Sniper Rifles --
+D3SOL8 Regulator		| sniper_fastrechamber_t8_upgraded
+Righteous Fury		| sniper_powerbolt_t8_upgraded
+IT-5 LYT			| sniper_powersemi_t8_upgraded
+Bakeneko			| sniper_quickscope_t8_upgraded
+
+-- Tactical Rifles --
+Dead Mans ReefRacker	| tr_powersemi_t8_upgraded
+Astralo-Packy-Cormus	| tr_longburst_t8_upgraded
+Br-r-rah			| tr_midburst_t8_upgraded
+
+-- Lightmachine Guns --
+Cackling Kaftar		| lmg_heavy_t8_upgraded
+Acheron Alliterator	| lmg_spray_t8_upgraded
+Tartarus Veil		| lmg_standard_t8_upgraded
+
+-- Assault Rifles --
+Impertinent Deanimator	| ar_accurate_t8_upgraded
+Red Fiend Bull		| ar_fastfire_t8_upgraded
+Parapetrifrier		| ar_damage_t8_upgraded
+Creeping Haze		| ar_stealth_t8_upgraded
+Ruined Revenger		| ar_modular_t8_upgraded
+Waking Nightmare		| ar_mg1909_t8_upgraded
+Gravestone			| ar_galil_t8_upgraded
+
+-- Submachine Guns --
+Nuevemuertes xx		| smg_standard_t8_upgraded
+Stellar 92			| smg_handling_t8_upgraded
+Sky Scorcher		| smg_fastfire_t8_upgraded
+Corpsemaker			| smg_capacity_t8_upgraded
+Ghoul Keepers Subjugator| smg_accurate_t8_upgraded
+PieceDerResistance	| smg_drum_pistol_t8_upgraded
+Excisenin3fold		| smg_folding_t8_upgraded
+            
+-- Pistols --
+Rapskallion 3D		| pistol_burst_t8_upgraded
+Belle Of The Ball		| pistol_revolver_t8_upgraded
+Z-Harmony			| pistol_standard_t8_upgraded
+King & Country		| pistol_topbreak_t8_upgraded
+
+-- Shotguns --
+OMG Right Hook		| shotgun_pump_t8_upgraded
+Breccius Rebornus		| shotgun_semiauto_t8_upgraded
+M9-TKG Home Wrecker	| shotgun_trenchgun_t8_upgraded
